@@ -19,7 +19,7 @@
 
 .hero-section h1{
     font-size: 60px;
-    color: red; 
+    color:#b70000; 
     font-weight: bolder;
     margin-bottom: 5px;
     margin-left: 20px;
@@ -60,4 +60,5 @@
     color: white;
     text-align: center;
 }
+
 
