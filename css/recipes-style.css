@@ -71,7 +71,7 @@ footer{
 
 
 footer .button {
-    background-color: #4CAF50; /* Green */
+    background-color: #313538; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -81,5 +81,6 @@ footer .button {
     font-size: 16px;
     margin-top: 15px;
     margin-bottom: 140px;
+    border-radius: 12px;
     
   }
