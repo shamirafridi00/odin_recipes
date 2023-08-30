@@ -5,9 +5,25 @@
 }
 
 .hero-section{
-    background-size: cover;
-    background-position: center;
-    height: 600px;
-    text-align: center;
+            background-image: url('../images/couple_cooking.jpg'); /* Replace 'hero-image.jpg' with your image file */
+            background-size: cover; /* Cover the entire container */
+            background-position: center; /* Center the image horizontally and vertically */
+            height: 400px; /* Adjust the height to your preference */
+            text-align: center; /* Center align text */
+            background-position: center;
+            background-repeat: no-repeat;
+            padding: 100px 0; /* Add padding to center text vertically */
+            opacity: 0.5;
+            z-index: -1;
+
+        
+}
+
+.hero-section h1{
+    font-size: 48px;
+    color: black; 
+    font-weight: 900;
+    z-index: 1;
+   
 }
 
