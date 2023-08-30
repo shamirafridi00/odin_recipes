@@ -28,7 +28,25 @@
     
 }
 
-.mid.description{
-    font-size: 32px;
+.mid .description{
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 30px;
+
 }
+
+.mid .ingredients-heading{
+    margin-bottom: 10px;
+
+}
+
+ul.listing-ul{
+    display: inline-block;
+    list-style-type: circle;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
 
